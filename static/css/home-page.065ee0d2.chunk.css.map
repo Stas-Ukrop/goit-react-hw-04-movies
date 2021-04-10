@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/HomePage/HomePage.module.css"],"names":[],"mappings":"AAAA,GACE,oBAAa,CAAb,YAAa,CACb,8BAAuB,CAAvB,sBAEF","file":"home-page.065ee0d2.chunk.css","sourcesContent":["h1 {\r\n  display: flex;\r\n  justify-content: center;\r\n  \r\n}\r\n"]}
